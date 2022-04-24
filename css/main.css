@@ -42,7 +42,7 @@ main {
     justify-content: center;
     align-items: center;
     max-width: 33%;
-    background-color: var(--clr-very-pale-blue);
+    background-color: white;
     border-radius: 15px;
     box-shadow: 0px 20px 5px var(--clr-pale-blue);
 }
@@ -181,12 +181,6 @@ section {
         max-width: 88%;
     }
 }
-
-/* @media only screen and (max-width: 600px) and (min-width: 440px) {
-    main {
-        max-width: 80%;
-    }
-} */
 
 @media only screen and (max-width: 800px) and (min-width: 600px) {
     main {
